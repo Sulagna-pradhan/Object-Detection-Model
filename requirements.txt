@@ -1,0 +1,5 @@
+transformers
+Pillow
+matplotlib
+opencv-python
+numpy
