@@ -22,7 +22,7 @@ pip install -r requirements.txt
 2. **Clone the repository**: Clone your forked repository to your local machine using:
 
     ```bash
-    git clone https://github.com/YOUR-USERNAME/Object-Detection-Model.git
+    git clone https://github.com/Sulagna-pradhan/Object-Detection-Model.git
     cd Object-Detection-Model
     ```
 
