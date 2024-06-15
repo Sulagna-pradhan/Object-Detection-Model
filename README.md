@@ -65,5 +65,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to reach out if you have any questions or run into any issues. Happy coding!
 
 ---
-
-Make sure to include this `requirements.txt` file in your repository along with the updated `README.md` file.
