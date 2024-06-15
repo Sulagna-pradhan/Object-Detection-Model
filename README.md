@@ -3,7 +3,7 @@
 
 # Object-Detection-Model
 
-This repository contains an object detection model built using Python. The model uses a pre-trained DETR (Detection Transformer) from Hugging Face to detect and classify objects in real-time video streams.
+This repository contains an object detection model built using Python. The model uses a pre-trained DETR (Detection Transformer) from Hugging Face to detect and classify objects by images.
 
 ## Getting Started
 
